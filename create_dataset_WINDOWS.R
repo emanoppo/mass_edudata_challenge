@@ -27,7 +27,7 @@
 ####################################################################################################
 
 # SPECIFY WORKING DIRECTORY HERE.
-mainDirectory <- "Z:/Mass EduData Challenge 2014/Mass DoE Datafiles"
+mainDirectory <- "ENTER FILE DIRECTORY HERE"
 setwd(mainDirectory)
 
 # Check to see if subfolder "downloaded files" exists -- if not, create new folder. Move to subfolder.
